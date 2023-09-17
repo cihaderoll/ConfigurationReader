@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationReader", "ConfigurationReader\ConfigurationReader.csproj", "{1B4B0BA3-2574-4AC2-8566-20C6E378EEB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationReader", "ConfigurationReader\ConfigurationReader.csproj", "{1B4B0BA3-2574-4AC2-8566-20C6E378EEB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration.Web", "Configuration.Web\Configuration.Web.csproj", "{3853AD95-D0A6-4C6F-8606-E7A101637D90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuration.Web", "Configuration.Web\Configuration.Web.csproj", "{3853AD95-D0A6-4C6F-8606-E7A101637D90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration.Domain", "Configuration.Domain\Configuration.Domain.csproj", "{39D35713-02EF-40CB-9DA6-FF9FA0989E3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuration.Domain", "Configuration.Domain\Configuration.Domain.csproj", "{39D35713-02EF-40CB-9DA6-FF9FA0989E3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration.Core", "Configuration.Core\Configuration.Core.csproj", "{BB502EC3-665B-461E-8721-E9BE222805B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuration.Core", "Configuration.Core\Configuration.Core.csproj", "{BB502EC3-665B-461E-8721-E9BE222805B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration.Common", "Configuration.Common\Configuration.Common.csproj", "{2117E90D-9A5B-4ED0-9A8E-DD8E9EC2B295}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuration.Common", "Configuration.Common\Configuration.Common.csproj", "{2117E90D-9A5B-4ED0-9A8E-DD8E9EC2B295}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configuration.Test", "Configuration.Test\Configuration.Test.csproj", "{361AF076-ADDA-4990-BA11-A9E1BE4F332A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Configuration.Test", "Configuration.Test\Configuration.Test.csproj", "{361AF076-ADDA-4990-BA11-A9E1BE4F332A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

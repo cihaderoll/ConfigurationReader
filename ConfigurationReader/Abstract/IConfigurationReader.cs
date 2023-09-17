@@ -23,11 +23,5 @@ namespace ConfigurationReader.Abstract
         /// <returns></returns>
         Task<T> GetAllConfigurations<T>();
 
-        /// <summary>
-        /// Refreshes the application cache when an update, delete orr add
-        /// operations performed on configuration list
-        /// </summary>
-        /// <param name="cacheKey"></param>
-        //Task RefreshConfigurationCache(string cacheKey);
     }
 }
